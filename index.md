@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Welcome to the Gruntled Browser Extension
+### Created by borntonguyen, leepriscilla, rickyg365, cvraut 
 
 You can use the [editor on GitHub](https://github.com/borntonguyen/borntonguyen.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
